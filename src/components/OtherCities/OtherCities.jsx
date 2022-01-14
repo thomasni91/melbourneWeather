@@ -19,7 +19,7 @@ const Bottom = styled.div`
 const CityContainer = styled.div`
     display: grid;
     grid-template-columns: auto auto auto auto;
-    flex-basis: 50%;
+    flex-basis: 80%;
     align-items: center;
 `;
 

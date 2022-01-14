@@ -6,6 +6,7 @@ const CityNameButton = styled.button`
     background-color: transparent;
     padding-left: 0;
     cursor: pointer;
+    color: black;
 `;
 
 const Unit = styled.div`

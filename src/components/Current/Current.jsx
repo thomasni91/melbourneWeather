@@ -280,7 +280,7 @@ const Current = ({ cityId }) => {
                         </Weather>
                         <Metas
                             humidity={`${data.humidity}%`}
-                            wind={`${data.wind}km/h`}
+                            wind={`${data.wind}KM/H`}
                         ></Metas>
                     </div>
                     <CityName>{data.cityName}</CityName>
