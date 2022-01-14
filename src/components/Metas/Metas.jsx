@@ -3,9 +3,10 @@ import styled from "styled-components";
 import Meta from "./Meta/Meta";
 
 const Container = styled.div`
-    padding: 0 30px;
-    font-size: 1.5rem;
+    padding: 10px 30px;
+    font-size: 1rem;
     display: flex;
+    text-align: center;
 `;
 
 const Metas = ({ humidity, wind }) => (

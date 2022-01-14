@@ -4,6 +4,7 @@ import Subtext from "../../Subtext/Subtext";
 const Container = styled.div`
     display: flex;
     flex-direction: column;
+    padding-top: 10px;
     padding-right: 20px;
 `;
 

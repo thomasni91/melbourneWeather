@@ -1,11 +1,12 @@
 import get from "./get";
 
-const city_id_Melbourne = "2158177";
+// const city_id_Melbourne = "2158177";
 
-const getWeather = () =>
+const getWeather = (id) =>
     get.get("/weather", {
         params: {
-            id: city_id_Melbourne,
+            id: id,
+            // id: city_id_Melbourne,
         },
     });
 
