@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/melbourneWeather/static/css/main.e6c13ad2.css",
-    "main.js": "/melbourneWeather/static/js/main.5adb3086.js",
+    "main.js": "/melbourneWeather/static/js/main.d6e1d09c.js",
     "static/js/787.cfd8f164.chunk.js": "/melbourneWeather/static/js/787.cfd8f164.chunk.js",
     "static/media/background.jpg": "/melbourneWeather/static/media/background.9f027d0c9d3516464099.jpg",
     "index.html": "/melbourneWeather/index.html",
     "main.e6c13ad2.css.map": "/melbourneWeather/static/css/main.e6c13ad2.css.map",
-    "main.5adb3086.js.map": "/melbourneWeather/static/js/main.5adb3086.js.map",
+    "main.d6e1d09c.js.map": "/melbourneWeather/static/js/main.d6e1d09c.js.map",
     "787.cfd8f164.chunk.js.map": "/melbourneWeather/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5adb3086.js"
+    "static/js/main.d6e1d09c.js"
   ]
 }
